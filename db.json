@@ -1,0 +1,125 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Suç ve Ceza",
+      "author": "Dostoyevski",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0000000222780-1.jpg",
+      "year": 1866,
+      "page": 671,
+      "description": "Raskolnikov hayatı",
+      "category": "roman"
+    },
+    {
+      "id": 2,
+      "title": "Savaş ve Barış",
+      "author": "Lev Tolstoy",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0001960596001-1.jpg",
+      "year": 1869,
+      "page": 1225,
+      "description": "1812 Napolyon Savaşı'na odaklanan epik bir roman",
+      "category": "roman"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0000000064038-1.jpg",
+      "year": 1949,
+      "page": 328,
+      "description": "Totaliter bir distopya üzerine bir roman",
+      "category": "roman"
+    },
+    {
+      "id": 4,
+      "title": "Siyah Gözlerine Beni de Götür",
+      "author": "Nurullah Genç",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0001972935001-1.jpg",
+      "year": 2010,
+      "page": 208,
+      "description": "Nurullah Genç'in duygusal ve romantik şiirlerinden oluşan bir koleksiyon.",
+      "category": "şiir"
+    },
+    {
+      "id": 5,
+      "title": "İstanbul Hatırası",
+      "author": "Ahmet Ümit",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0001846444001-1.jpg",
+      "year": 1996,
+      "page": 384,
+      "description": "Bir dedektifin İstanbul'daki maceraları",
+      "category": "roman"
+    },
+    {
+      "id": 6,
+      "title": "Beyaz Gemi",
+      "author": "Cengiz Aytmatov",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0001924021001-1.jpg",
+      "year": 1970,
+      "page": 135,
+      "description": "Kırgızistan'da geçen bir hikâye",
+      "category": "hikaye"
+    },
+    {
+      "id": 7,
+      "title": "Hayvan Çiftliği",
+      "author": "George Orwell",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0000000105409-1.jpg",
+      "year": 1945,
+      "page": 112,
+      "description": "Bir çiftlikteki hayvanlar arasındaki politik bir alegori",
+      "category": "hikaye"
+    },
+    {
+      "id": 8,
+      "title": "Henüz Vakit Varken Gülüm",
+      "author": "Nazım Hikmet",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0000000268343-1.jpg",
+      "year": 1963,
+      "page": 96,
+      "description": "Nazım Hikmet'in aşk ve yaşam üzerine şiirlerinden seçmeler.",
+      "category": "şiir"
+    },
+    {
+      "id": 9,
+      "title": "Şeker Portakalı",
+      "author": "José Mauro de Vasconcelos",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0000000064031-1.jpg",
+      "year": 1968,
+      "page": 207,
+      "description": "Brezilya'da yoksulluk içinde büyüyen bir çocuğun hikâyesi",
+      "category": "hikaye"
+    },
+    {
+      "id": 10,
+      "title": "Martı",
+      "author": "Richard Bach",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0001844572001-1.jpg",
+      "year": 1970,
+      "page": 127,
+      "description": "Özgürlük ve keşif üzerine bir hikâye",
+      "category": "hikaye"
+    },
+    {
+      "id": 11,
+      "title": "Kuşların Göğü Önünde",
+      "author": "Haydar Ergülen",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0002016878001-1.jpg",
+      "year": 2000,
+      "page": 160,
+      "description": "Haydar Ergülen'in duygusal şiirlerinden oluşan bir koleksiyon.",
+      "category": "şiir"
+    },
+
+    {
+      "id": 12,
+      "title": "İnsanın Acısını İnsan Alır",
+      "author": "Şükrü Erbaş",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0000000604902-1.jpg",
+      "year": 1982,
+      "page": 112,
+      "description": "Şükrü Erbaş'ın toplumsal eleştiriler içeren şiirlerinden oluşan bir kitap.",
+      "category": "şiir"
+    }
+  ]
+}
